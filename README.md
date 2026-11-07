@@ -10,12 +10,27 @@
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=harsimrats-khehra" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsimrats-khehra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+   <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsimrats-khehra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsimrats-khehra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+  <a href="https://github.com/harsimrats-khehra?tab=achievements">
+    View GitHub Achievements
+  </a>
 </p>
+
 
 
 
