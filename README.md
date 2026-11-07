@@ -5,21 +5,18 @@
 ## 📌 About Me
 - 💡 <em>✏️ Computer Science & Engineering undergraduate focused on modern web architectures and software engineering.</em>
 
+
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsimrats-khehra&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="harsimrats-khehra's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=harsimrats-khehra&theme=nightowl&hide_border=true&cache_seconds=86400" alt="harsimrats-khehra's GitHub Streak" width="49%" />
+  <img src="https://ghstats.dev/api/card?username=harsimrats-khehra" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsimrats-khehra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsimrats-khehra&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harsimrats-khehra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsimrats-khehra&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Harsimrat Singh Khehra's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=harsimrats-khehra&theme=nightowl&radius=10" alt="harsimrats-khehra's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
